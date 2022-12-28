@@ -2,7 +2,7 @@
   "profiles": {
     "imgrec": {
       "commandName": "Project",
-      "commandLineArgs": "c:\\temp\\fi2\\config.json c:\\temp\\fi2\\table.png c:\\temp\\fi2\\output.png"
+      "commandLineArgs": "c:\\temp\\imgrec\\config.json c:\\temp\\imgrec\\table.png c:\\temp\\imgrec\\output.png"
     }
   }
 }
